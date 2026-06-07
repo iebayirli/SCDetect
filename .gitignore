@@ -1,0 +1,15 @@
+# Android build
+.gradle/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Heap dump (bellek hatası artifact)
+*.hprof
+
+# macOS
+.DS_Store
